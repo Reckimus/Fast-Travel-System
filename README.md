@@ -4,6 +4,8 @@ Drop the FastTravel.dll into the BepinEx/Plugins folder and launch the game
 
 How to Use
 Press F2 to toggle and close the Fast Travel control panel.
-Updated to not break with spell usage changes.
+Updated to not break with spell usage changes and removes the broken spells from player spellbook.
 
 More locations will be added in the future.
+
+
